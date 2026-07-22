@@ -9,8 +9,7 @@ import NotFound from "./pages/NotFound";
 import LiveRedirect from "./pages/LiveRedirect";
 import WhatsAppRedirect from "./pages/WhatsAppRedirect";
 
-// TODO: substituir pelos IDs reais dos 3 vídeos do YouTube da Turma #42 assim que forem criados
-const AULAS_YT_IDS = ['PENDENTE_AULA_1', 'PENDENTE_AULA_2', 'PENDENTE_AULA_3'];
+const AULAS_YT_IDS = ['z5d6twnYiGg', '_cNu6ECHml8', '1mHLICt7ag4'];
 
 const MATRICULA_WHATSAPP_PHONE = '5511919434040';
 const MATRICULA_WHATSAPP_MSG = 'Olá! Vim pela Semana do Despertar e quero garantir minha matrícula na Formação iDM com os bônus da oferta especial 🎓';
