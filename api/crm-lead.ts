@@ -92,7 +92,7 @@ export default async function handler(req: any, res: any): Promise<void> {
         )
       : Promise.resolve(null);
 
-    const disparoCampanhaId = 'cc21fc91-4f42-42ee-8045-75c9f9e94c83';
+    const disparoCampanhaId = 'c1db494d-2b0d-4a2c-ace5-6f987ee7de4a';
     // ordem em segundos (não milissegundos) para caber em integer do PostgreSQL
     const ordemSegundos = Math.floor(Date.now() / 1000);
 
